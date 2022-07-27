@@ -1,3 +1,9 @@
 /Logs/
 /Temp/
-/idea/
+/.idea/vcs.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/OldWorld_Dune.iml
+/.idea/modules.xml
+/.idea/misc.xml
+/.idea/.gitignore
+/Library/Artifacts/
