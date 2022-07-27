@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &687078895
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: dune-portrait-atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 0
+      compressionQuality: 0
+      maxTextureSize: 0
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 0
+      blockOffset: 0
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 0.1
+    packables:
+    - {fileID: 2800000, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
+    bindAsDefault: 0
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -2154978213223688128, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
+  - {fileID: 7572076457525505144, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
+  - {fileID: -9150692039581011234, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
+  - {fileID: -453489763068646304, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
+  - {fileID: 6248629190891878677, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
+  - {fileID: 6405716926691210188, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
+  - {fileID: 3416456606028226365, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
+  - {fileID: -4307651971808450993, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
+  - {fileID: -1585037728253452592, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
+  - {fileID: 9172651086280150891, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
+  - {fileID: 9185684720686513673, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
+  - {fileID: -2963478613546903424, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
+  - {fileID: -9024226730596837030, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
+  - {fileID: -4075437209097649405, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
+  - {fileID: 8391543139935069157, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
+  - {fileID: -6053732642241515368, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
+  - {fileID: -7112320630434133790, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
+  - {fileID: -5957288322424704714, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
+  - {fileID: 7364489479361673374, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
+  - {fileID: -5718190807019456755, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
+  - {fileID: -3776612804842318991, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
+  - {fileID: 1524317693293923571, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - DUNE_PORTRAIT_STILGAR
+  - DUNE_PORTRAIT_GIRL_9YO
+  - DUNE_PORTRAIT_DUNCAN
+  - DUNE_PORTRAIT_JESSICA
+  - DUNE_PORTRAIT_GIRL_6YO
+  - DUNE_PORTRAIT_FENRING
+  - DUNE_PORTRAIT_GIRL_12YO
+  - DUNE_PORTRAIT_KYNES
+  - DUNE_PORTRAIT_SHADDAM
+  - DUNE_PORTRAIT_PAUL
+  - DUNE_PORTRAIT_VLADIMIR
+  - DUNE_PORTRAIT_ALIA_YOUTH
+  - DUNE_PORTRAIT_PITER
+  - DUNE_PORTRAIT_FREMEN_WOMAN_1
+  - DUNE_PORTRAIT_GIRL_3YO
+  - DUNE_PORTRAIT_LETO
+  - DUNE_PORTRAIT_ALIA_BABY
+  - DUNE_PORTRAIT_FEYD
+  - DUNE_PORTRAIT_IRULAN
+  - DUNE_PORTRAIT_GURNEY
+  - DUNE_PORTRAIT_CHANI
+  - DUNE_PORTRAIT_GLOSSU
+  m_RenderDataMap: {}
+  m_Tag: dune-portrait-atlas
+  m_IsVariant: 0

@@ -1,0 +1,639 @@
+fileFormatVersion: 2
+guid: a47eedea2c58b014db78bcbcebf301fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5957288322424704714
+    second: DUNE_PORTRAIT_FEYD
+  - first:
+      213: 9185684720686513673
+    second: DUNE_PORTRAIT_VLADIMIR
+  - first:
+      213: -9024226730596837030
+    second: DUNE_PORTRAIT_PITER
+  - first:
+      213: 7364489479361673374
+    second: DUNE_PORTRAIT_IRULAN
+  - first:
+      213: -2963478613546903424
+    second: DUNE_PORTRAIT_ALIA_YOUTH
+  - first:
+      213: -7112320630434133790
+    second: DUNE_PORTRAIT_ALIA_BABY
+  - first:
+      213: -1585037728253452592
+    second: DUNE_PORTRAIT_SHADDAM
+  - first:
+      213: -9150692039581011234
+    second: DUNE_PORTRAIT_DUNCAN
+  - first:
+      213: -453489763068646304
+    second: DUNE_PORTRAIT_JESSICA
+  - first:
+      213: -4307651971808450993
+    second: DUNE_PORTRAIT_KYNES
+  - first:
+      213: -3776612804842318991
+    second: DUNE_PORTRAIT_CHANI
+  - first:
+      213: 1524317693293923571
+    second: DUNE_PORTRAIT_GLOSSU
+  - first:
+      213: 9172651086280150891
+    second: DUNE_PORTRAIT_PAUL
+  - first:
+      213: -6053732642241515368
+    second: DUNE_PORTRAIT_LETO
+  - first:
+      213: -2154978213223688128
+    second: DUNE_PORTRAIT_STILGAR
+  - first:
+      213: -5718190807019456755
+    second: DUNE_PORTRAIT_GURNEY
+  - first:
+      213: 8391543139935069157
+    second: DUNE_PORTRAIT_GIRL_3YO
+  - first:
+      213: 6248629190891878677
+    second: DUNE_PORTRAIT_GIRL_6YO
+  - first:
+      213: 7572076457525505144
+    second: DUNE_PORTRAIT_GIRL_9YO
+  - first:
+      213: 3416456606028226365
+    second: DUNE_PORTRAIT_GIRL_12YO
+  - first:
+      213: -4075437209097649405
+    second: DUNE_PORTRAIT_FREMEN_WOMAN_1
+  - first:
+      213: 6405716926691210188
+    second: DUNE_PORTRAIT_FENRING
+  - first:
+      213: -2286069218046931800
+    second: DUNE_BLOKE
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_FEYD
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631fa4575d5735da0800000000000000
+      internalID: -5957288322424704714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_VLADIMIR
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 3
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90eb04be59b1a7f70800000000000000
+      internalID: 9185684720686513673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_PITER
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59d036d99183c280800000000000000
+      internalID: -9024226730596837030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_IRULAN
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e983479a92ce33660800000000000000
+      internalID: 7364489479361673374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_ALIA_YOUTH
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088d114f6eb9fd6d0800000000000000
+      internalID: -2963478613546903424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_ALIA_BABY
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 259
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e88a4eb116fb4d90800000000000000
+      internalID: -7112320630434133790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_SHADDAM
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de5cd38590d00ae0800000000000000
+      internalID: -1585037728253452592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_DUNCAN
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 262
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed277cb8216320180800000000000000
+      internalID: -9150692039581011234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_JESSICA
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 259
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c64039671e4b9f0800000000000000
+      internalID: -453489763068646304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_KYNES
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 259
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46a854ca552834c0800000000000000
+      internalID: -4307651971808450993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_CHANI
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 259
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1739e21d9a6c69bc0800000000000000
+      internalID: -3776612804842318991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_GLOSSU
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc80a9add6772510800000000000000
+      internalID: 1524317693293923571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_PAUL
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 259
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f445e609dcb4f70800000000000000
+      internalID: 9172651086280150891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_LETO
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 259
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890f1066c32dcfba0800000000000000
+      internalID: -6053732642241515368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_STILGAR
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 520
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048981e8bbaf712e0800000000000000
+      internalID: -2154978213223688128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_GURNEY
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 520
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0773bdd1c7e4a0b0800000000000000
+      internalID: -5718190807019456755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_GIRL_3YO
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 520
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e322358600c47470800000000000000
+      internalID: 8391543139935069157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_GIRL_6YO
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 520
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5193f38742797b650800000000000000
+      internalID: 6248629190891878677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_GIRL_9YO
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 520
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ce7e66b6b651960800000000000000
+      internalID: 7572076457525505144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_GIRL_12YO
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 520
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f59d89e21b96f20800000000000000
+      internalID: 3416456606028226365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_FREMEN_WOMAN_1
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 520
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303435f63732177c0800000000000000
+      internalID: -4075437209097649405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_FENRING
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 779
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3f22b1b9da5e850800000000000000
+      internalID: 6405716926691210188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bfa972970df0d224786bc330e7455acf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
