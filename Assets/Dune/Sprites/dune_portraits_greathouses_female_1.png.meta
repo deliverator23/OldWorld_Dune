@@ -451,7 +451,7 @@ TextureImporter:
       name: GREATHOUSES_FEMALE_02_SENIOR
       rect:
         serializedVersion: 2
-        x: 779
+        x: 782
         y: 1532
         width: 256
         height: 256
@@ -1262,27 +1262,6 @@ TextureImporter:
       bones: []
       spriteID: 48087463c3271ac70800000000000000
       internalID: 8980584734887739524
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: dune_portraits_greathouses_female_1_50
-      rect:
-        serializedVersion: 2
-        x: 779
-        y: 1532
-        width: 256
-        height: 256
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b2e17bbe6e8ce90e0800000000000000
-      internalID: -2261149068770730453
       vertices: []
       indices: 
       edges: []
