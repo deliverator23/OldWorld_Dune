@@ -1,7 +1,112 @@
 fileFormatVersion: 2
 guid: 71ac1d7f317fe7844adec90d3d33f67d
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 3329218894492884889
+    second: GREATHOUSES_MALE_01_TEEN
+  - first:
+      213: 5683844245245065958
+    second: GREATHOUSES_MALE_01_ADULT
+  - first:
+      213: 1604230075272098014
+    second: GREATHOUSES_MALE_01_SENIOR
+  - first:
+      213: 3884234452697021219
+    second: dune_portraits_greathouses_male_1_3
+  - first:
+      213: 4188505320544985710
+    second: dune_portraits_greathouses_male_1_4
+  - first:
+      213: -6027445473501865901
+    second: dune_portraits_greathouses_male_1_5
+  - first:
+      213: -9064554206794159157
+    second: GREATHOUSES_MALE_02_TEEN
+  - first:
+      213: -5062228928037490159
+    second: dune_portraits_greathouses_male_1_7
+  - first:
+      213: -8119478238080985055
+    second: dune_portraits_greathouses_male_1_8
+  - first:
+      213: 1891840318367963078
+    second: dune_portraits_greathouses_male_1_9
+  - first:
+      213: -2705862282200769151
+    second: dune_portraits_greathouses_male_1_10
+  - first:
+      213: 7231598758014028061
+    second: dune_portraits_greathouses_male_1_11
+  - first:
+      213: -6650156311197858029
+    second: dune_portraits_greathouses_male_1_12
+  - first:
+      213: 7497084193007557633
+    second: GREATHOUSES_MALE_03_TEEN
+  - first:
+      213: 5966796858776169397
+    second: dune_portraits_greathouses_male_1_14
+  - first:
+      213: 8955431895113077519
+    second: dune_portraits_greathouses_male_1_15
+  - first:
+      213: 1766880361758135995
+    second: dune_portraits_greathouses_male_1_16
+  - first:
+      213: -7665641034904216969
+    second: dune_portraits_greathouses_male_1_17
+  - first:
+      213: 4639314194748852016
+    second: dune_portraits_greathouses_male_1_18
+  - first:
+      213: 726135521394204267
+    second: dune_portraits_greathouses_male_1_19
+  - first:
+      213: 5905384951418263747
+    second: dune_portraits_greathouses_male_1_20
+  - first:
+      213: -7797457296330207990
+    second: dune_portraits_greathouses_male_1_21
+  - first:
+      213: -206141184281705097
+    second: dune_portraits_greathouses_male_1_22
+  - first:
+      213: 7863131375290892647
+    second: dune_portraits_greathouses_male_1_23
+  - first:
+      213: 5450824633656203443
+    second: dune_portraits_greathouses_male_1_24
+  - first:
+      213: 7462127392345031565
+    second: dune_portraits_greathouses_male_1_25
+  - first:
+      213: 4231856164917563138
+    second: dune_portraits_greathouses_male_1_26
+  - first:
+      213: -2823703314251181974
+    second: dune_portraits_greathouses_male_1_27
+  - first:
+      213: 5592355996005141427
+    second: dune_portraits_greathouses_male_1_28
+  - first:
+      213: 5505715125717063654
+    second: dune_portraits_greathouses_male_1_29
+  - first:
+      213: -5476222427657337901
+    second: dune_portraits_greathouses_male_1_30
+  - first:
+      213: 5450921783957686154
+    second: dune_portraits_greathouses_male_1_31
+  - first:
+      213: 6655033341470751914
+    second: dune_portraits_greathouses_male_1_32
+  - first:
+      213: -5669816539926442686
+    second: dune_portraits_greathouses_male_1_33
+  - first:
+      213: 115198882573603989
+    second: dune_portraits_greathouses_male_1_34
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -89,11 +194,746 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: GREATHOUSES_MALE_01_TEEN
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1790
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f54c112f2c33e20800000000000000
+      internalID: 3329218894492884889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_MALE_01_ADULT
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1790
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eafa7c0a3211ee40800000000000000
+      internalID: 5683844245245065958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_MALE_01_SENIOR
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1790
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0779ef0ce534610800000000000000
+      internalID: 1604230075272098014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_greathouses_male_1_3
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1790
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bf659b7a297e530800000000000000
+      internalID: 3884234452697021219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_greathouses_male_1_4
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1790
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62eaeab56f802a30800000000000000
+      internalID: 4188505320544985710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_greathouses_male_1_5
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1790
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35892e0d6463a5ca0800000000000000
+      internalID: -6027445473501865901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_MALE_02_TEEN
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1530
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbe2c899fb343280800000000000000
+      internalID: -9064554206794159157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_greathouses_male_1_7
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1530
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1127e9c5c995fb9b0800000000000000
+      internalID: -5062228928037490159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_greathouses_male_1_8
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1530
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1281ba1bf81d15f80800000000000000
+      internalID: -8119478238080985055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_greathouses_male_1_9
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1530
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c795140fba214a10800000000000000
+      internalID: 1891840318367963078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_greathouses_male_1_10
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1530
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d9b423798d27ad0800000000000000
+      internalID: -2705862282200769151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_greathouses_male_1_11
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1530
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19059971cccb5460800000000000000
+      internalID: 7231598758014028061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_greathouses_male_1_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1270
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317ca3aa116e5b3a0800000000000000
+      internalID: -6650156311197858029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_MALE_03_TEEN
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1270
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c596f2a5efa0860800000000000000
+      internalID: 7497084193007557633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_greathouses_male_1_14
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1270
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb254e21225ec250800000000000000
+      internalID: 5966796858776169397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_greathouses_male_1_15
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1270
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f031b665cd5184c70800000000000000
+      internalID: 8955431895113077519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_greathouses_male_1_16
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1270
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb61533e358358810800000000000000
+      internalID: 1766880361758135995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_greathouses_male_1_17
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1270
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a50e2d71c2e9590800000000000000
+      internalID: -7665641034904216969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_greathouses_male_1_18
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1270
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037ce631ea7226040800000000000000
+      internalID: 4639314194748852016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_greathouses_male_1_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1010
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e9e73d860c31a00800000000000000
+      internalID: 726135521394204267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_greathouses_male_1_20
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1010
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c81933435424f150800000000000000
+      internalID: 5905384951418263747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_greathouses_male_1_21
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1010
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dc5f4d6edd9c390800000000000000
+      internalID: -7797457296330207990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_greathouses_male_1_22
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1010
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7758f416fa3a32df0800000000000000
+      internalID: -206141184281705097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_greathouses_male_1_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 750
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761417e33547f1d60800000000000000
+      internalID: 7863131375290892647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_greathouses_male_1_24
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 750
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8d606ef1835ab40800000000000000
+      internalID: 5450824633656203443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_greathouses_male_1_25
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 750
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d830079c35dce8760800000000000000
+      internalID: 7462127392345031565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_greathouses_male_1_26
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 750
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f457ab2c29aba30800000000000000
+      internalID: 4231856164917563138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_greathouses_male_1_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 490
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6017fadbc030d8d0800000000000000
+      internalID: -2823703314251181974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_greathouses_male_1_28
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 490
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb8967162a0c9d40800000000000000
+      internalID: 5592355996005141427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_greathouses_male_1_29
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 490
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e75cde7cba386c40800000000000000
+      internalID: 5505715125717063654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_greathouses_male_1_30
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 490
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3057067bc8004b0800000000000000
+      internalID: -5476222427657337901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_greathouses_male_1_31
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 230
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a878c377b7095ab40800000000000000
+      internalID: 5450921783957686154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_greathouses_male_1_32
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 230
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacbebe609d6b5c50800000000000000
+      internalID: 6655033341470751914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_greathouses_male_1_33
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 230
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dcc0c95e3c051b0800000000000000
+      internalID: -5669816539926442686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_greathouses_male_1_34
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 230
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594525af5c4499100800000000000000
+      internalID: 115198882573603989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 8383f50f2c4f27f4e85383d539df6583
     internalID: 0
     vertices: []
     indices: 
