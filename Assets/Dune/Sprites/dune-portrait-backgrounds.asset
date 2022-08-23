@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &687078895
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: dune-portrait-backgrounds
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 0
+      compressionQuality: 0
+      maxTextureSize: 0
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 0
+      blockOffset: 0
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 0.1
+    packables:
+    - {fileID: 2800000, guid: 3b01c077fb4498d41981509cc597f849, type: 3}
+    bindAsDefault: 0
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -4141810621292174273, guid: 3b01c077fb4498d41981509cc597f849, type: 3}
+  - {fileID: -7538236003048709375, guid: 3b01c077fb4498d41981509cc597f849, type: 3}
+  - {fileID: 3076178542090355037, guid: 3b01c077fb4498d41981509cc597f849, type: 3}
+  - {fileID: -5468846216667953134, guid: 3b01c077fb4498d41981509cc597f849, type: 3}
+  - {fileID: 6283150082262730109, guid: 3b01c077fb4498d41981509cc597f849, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - PORTRAIT_BACKGROUND_RED
+  - PORTRAIT_BACKGROUND_BLUE
+  - PORTRAIT_BACKGROUND_PURPLE
+  - PORTRAIT_BACKGROUND_GREEN
+  - PORTRAIT_BACKGROUND_BROWN
+  m_RenderDataMap: {}
+  m_Tag: dune-portrait-backgrounds
+  m_IsVariant: 0

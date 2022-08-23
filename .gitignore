@@ -8,3 +8,6 @@
 /.idea/.gitignore
 /Library/AtlasCache/
 /Library/Artifacts/
+/Library/ShaderCache/
+/Library/StateCache/
+/Library/

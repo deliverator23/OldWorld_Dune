@@ -1,0 +1,1305 @@
+fileFormatVersion: 2
+guid: c78129ed424e5324489d27480d67c207
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8623591818749018450
+    second: GREATHOUSES_FEMALE_01_TEEN
+  - first:
+      213: 6957132279819425886
+    second: GREATHOUSES_FEMALE_01_ADULT
+  - first:
+      213: 6610839515661108642
+    second: GREATHOUSES_FEMALE_01_SENIOR
+  - first:
+      213: 5969520743072367509
+    second: GREATHOUSES_FEMALE_08_TEEN
+  - first:
+      213: -2206744282176895794
+    second: GREATHOUSES_FEMALE_08_ADULT
+  - first:
+      213: -1673725361811673571
+    second: GREATHOUSES_FEMALE_08_SENIOR
+  - first:
+      213: 607034425442297860
+    second: GREATHOUSES_FEMALE_02_YOUTH
+  - first:
+      213: 293209884369945841
+    second: GREATHOUSES_FEMALE_02_TEEN
+  - first:
+      213: -6760994738159296498
+    second: GREATHOUSES_FEMALE_02_ADULT
+  - first:
+      213: -4542183983551527337
+    second: GREATHOUSES_FEMALE_02_SENIOR
+  - first:
+      213: -1034611532536870542
+    second: GREATHOUSES_FEMALE_03_YOUTH
+  - first:
+      213: -6222275536976260578
+    second: GREATHOUSES_FEMALE_03_TEEN
+  - first:
+      213: -7528814638806100254
+    second: GREATHOUSES_FEMALE_03_ADULT
+  - first:
+      213: 5172572394131124356
+    second: GREATHOUSES_FEMALE_03_SENIOR
+  - first:
+      213: -7530327029420810471
+    second: GREATHOUSES_FEMALE_04_YOUTH
+  - first:
+      213: -7778376678069244954
+    second: GREATHOUSES_FEMALE_04_TEEN
+  - first:
+      213: -5660618871272332567
+    second: GREATHOUSES_FEMALE_04_ADULT
+  - first:
+      213: -1799685555591224816
+    second: GREATHOUSES_FEMALE_04_SENIOR
+  - first:
+      213: 5229920693535161870
+    second: GREATHOUSES_FEMALE_09_TEEN
+  - first:
+      213: 69212456074674182
+    second: GREATHOUSES_FEMALE_09_ADULT
+  - first:
+      213: 7791638644311043782
+    second: GREATHOUSES_FEMALE_09_SENIOR
+  - first:
+      213: -1072960609654204245
+    second: GREATHOUSES_FEMALE_10_TEEN
+  - first:
+      213: 3769729554579737923
+    second: GREATHOUSES_FEMALE_10_ADULT
+  - first:
+      213: 327384668392495927
+    second: GREATHOUSES_FEMALE_10_SENIOR
+  - first:
+      213: 8341100580971653097
+    second: GREATHOUSES_FEMALE_11_TEEN
+  - first:
+      213: 1382238913575513167
+    second: GREATHOUSES_FEMALE_11_ADULT
+  - first:
+      213: -4951151957006384784
+    second: GREATHOUSES_FEMALE_11_SENIOR
+  - first:
+      213: -1395338775346336098
+    second: GREATHOUSES_FEMALE_06_YOUTH
+  - first:
+      213: 2183451426808253803
+    second: GREATHOUSES_FEMALE_05_TEEN
+  - first:
+      213: 3705290283266741187
+    second: GREATHOUSES_FEMALE_06_ADULT
+  - first:
+      213: -6627256694481477440
+    second: GREATHOUSES_FEMALE_06_SENIOR
+  - first:
+      213: 3567586007645909430
+    second: GREATHOUSES_FEMALE_07_YOUTH
+  - first:
+      213: -6600047830280686520
+    second: GREATHOUSES_FEMALE_07_TEEN
+  - first:
+      213: 8725362504776956438
+    second: GREATHOUSES_FEMALE_07_ADULT
+  - first:
+      213: 8445855530372154913
+    second: GREATHOUSES_FEMALE_07_SENIOR
+  - first:
+      213: -2318483424737146371
+    second: GREATHOUSES_FEMALE_05_YOUTH
+  - first:
+      213: -6578983508627953142
+    second: GREATHOUSES_FEMALE_0_TEEN
+  - first:
+      213: 4522093222231835062
+    second: GREATHOUSES_FEMALE_05_ADULT
+  - first:
+      213: -2538097005621851183
+    second: GREATHOUSES_FEMALE_05_SENIOR
+  - first:
+      213: 6336349715253349533
+    second: GREATHOUSES_FEMALE_12_TEEN
+  - first:
+      213: 3475737698339066856
+    second: GREATHOUSES_FEMALE_12_ADULT
+  - first:
+      213: 7409394536848450558
+    second: GREATHOUSES_FEMALE_12_SENIOR
+  - first:
+      213: 3407302001689909142
+    second: GREATHOUSES_FEMALE_13_TEEN
+  - first:
+      213: -6044931756826883587
+    second: GREATHOUSES_FEMALE_13_ADULT
+  - first:
+      213: -7756242123493323755
+    second: GREATHOUSES_FEMALE_13_SENIOR
+  - first:
+      213: 6578338115424932014
+    second: GREATHOUSES_FEMALE_14_TEEN
+  - first:
+      213: -5714261127243921698
+    second: GREATHOUSES_FEMALE_14_ADULT
+  - first:
+      213: 8980584734887739524
+    second: GREATHOUSES_FEMALE_14_SENIOR
+  - first:
+      213: -2261149068770730453
+    second: dune_portraits_greathouses_female_1_50
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_01_YOUTH
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1790
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7f133595666e120800000000000000
+      internalID: 2442752381728978895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_01_TEEN
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1790
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2510084c1172da770800000000000000
+      internalID: 8623591818749018450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_01_ADULT
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1790
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e585a02b2f2bc8060800000000000000
+      internalID: 6957132279819425886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_01_SENIOR
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a58816838b6ebb50800000000000000
+      internalID: 6610839515661108642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_08_TEEN
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1790
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593872aec7ff7d250800000000000000
+      internalID: 5969520743072367509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_08_ADULT
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1790
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4c8b664c11061e0800000000000000
+      internalID: -2206744282176895794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_08_SENIOR
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1790
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e27a5b6abb5c8e0800000000000000
+      internalID: -1673725361811673571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_02_YOUTH
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1532
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408ebeef79e9c6800800000000000000
+      internalID: 607034425442297860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_02_TEEN
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1532
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4018a16d0b11400800000000000000
+      internalID: 293209884369945841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_02_ADULT
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1532
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00eabf5b1f1c22a0800000000000000
+      internalID: -6760994738159296498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_02_SENIOR
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1532
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75641f38bbbe6f0c0800000000000000
+      internalID: -4542183983551527337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_03_YOUTH
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1272
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2790e92fa4254a1f0800000000000000
+      internalID: -1034611532536870542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_03_TEEN
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1272
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e125debbd5906a9a0800000000000000
+      internalID: -6222275536976260578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_03_ADULT
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1272
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e69332b9f6448790800000000000000
+      internalID: -7528814638806100254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_03_SENIOR
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1272
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4807d2fdf2ba8c740800000000000000
+      internalID: 5172572394131124356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_04_YOUTH
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1012
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f99d0d677ee7790800000000000000
+      internalID: -7530327029420810471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_04_TEEN
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1012
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebef767f97ad0490800000000000000
+      internalID: -7778376678069244954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_04_ADULT
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1012
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2a0f8b0217171b0800000000000000
+      internalID: -5660618871272332567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_04_SENIOR
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1012
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0126597b58b3607e0800000000000000
+      internalID: -1799685555591224816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_09_TEEN
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1532
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0eb0a55929649840800000000000000
+      internalID: 5229920693535161870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_09_ADULT
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1532
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6000d52bc54e5f000800000000000000
+      internalID: 69212456074674182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_09_SENIOR
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1532
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cead5ca016712c60800000000000000
+      internalID: 7791638644311043782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_10_TEEN
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1272
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba81393a2041c11f0800000000000000
+      internalID: -1072960609654204245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_10_ADULT
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1272
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d44089e05c05430800000000000000
+      internalID: 3769729554579737923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_10_SENIOR
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1272
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b91701f9a1b8400800000000000000
+      internalID: 327384668392495927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_11_TEEN
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1012
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7ae9c09ca81c370800000000000000
+      internalID: 8341100580971653097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_11_ADULT
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1012
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ce36ee7f2be2310800000000000000
+      internalID: 1382238913575513167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_11_SENIOR
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1012
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07187a50789f94bb0800000000000000
+      internalID: -4951151957006384784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_06_YOUTH
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 492
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e2722d6c2c2ace0800000000000000
+      internalID: -1395338775346336098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_05_TEEN
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 492
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dc937118d2d4e10800000000000000
+      internalID: 2183451426808253803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_06_ADULT
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 492
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c312d391e5db6330800000000000000
+      internalID: 3705290283266741187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_06_SENIOR
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 492
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c02a1a26214704a0800000000000000
+      internalID: -6627256694481477440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_07_YOUTH
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 232
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b17363729c928130800000000000000
+      internalID: 3567586007645909430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_07_TEEN
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 232
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8443887877be764a0800000000000000
+      internalID: -6600047830280686520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_07_ADULT
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 232
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a3eb918f6b61970800000000000000
+      internalID: 8725362504776956438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_07_SENIOR
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 232
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126c9185bd4b53570800000000000000
+      internalID: 8445855530372154913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_05_YOUTH
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 752
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df949eaeb9713dfd0800000000000000
+      internalID: -2318483424737146371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_0_TEEN
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 752
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ae3191b51c2b4a0800000000000000
+      internalID: -6578983508627953142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_05_ADULT
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 752
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1845893d3b1ce30800000000000000
+      internalID: 4522093222231835062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_05_SENIOR
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 752
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db4d66883ed6ccd0800000000000000
+      internalID: -2538097005621851183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_12_TEEN
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 752
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cc25e9e7c3fe750800000000000000
+      internalID: 6336349715253349533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_12_ADULT
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 752
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e31fe9750d4c3030800000000000000
+      internalID: 3475737698339066856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_12_SENIOR
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 752
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef36299131573d660800000000000000
+      internalID: 7409394536848450558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_13_TEEN
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 492
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697543d2e1b294f20800000000000000
+      internalID: 3407302001689909142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_13_ADULT
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 492
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df90bd638961c1ca0800000000000000
+      internalID: -6044931756826883587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_13_SENIOR
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 492
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c424d02ea4c5490800000000000000
+      internalID: -7756242123493323755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_14_TEEN
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 232
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0d05699a3fa4b50800000000000000
+      internalID: 6578338115424932014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_14_ADULT
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 232
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed68dccb7cdd2b0b0800000000000000
+      internalID: -5714261127243921698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_FEMALE_14_SENIOR
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 232
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48087463c3271ac70800000000000000
+      internalID: 8980584734887739524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_greathouses_female_1_50
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1532
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e17bbe6e8ce90e0800000000000000
+      internalID: -2261149068770730453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 330a1c6c7f7f94341926c56c1cc06be3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

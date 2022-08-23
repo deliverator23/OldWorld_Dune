@@ -43,18 +43,24 @@ SpriteAtlas:
     secondaryTextureSettings: {}
     variantMultiplier: 0.1
     packables:
-    - {fileID: -3742228935931146260, guid: 433410250fee52542a2c40307a85856e, type: 3}
+    - {fileID: 6470270117738414659, guid: 0ec2686fa720ae642a73f62786c0e527, type: 3}
     - {fileID: -5894312021741272784, guid: 9d0e9fbe54d417e4581c24b9b8451826, type: 3}
+    - {fileID: 8340766082051511869, guid: 0dac6b41080233344bee9fd167de0074, type: 3}
+    - {fileID: -1709502432475885918, guid: 2708563b97bec1747885327868316f10, type: 3}
     bindAsDefault: 0
     isAtlasV2: 0
     cachedData: {fileID: 0}
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
-  - {fileID: -3742228935931146260, guid: 433410250fee52542a2c40307a85856e, type: 3}
+  - {fileID: 8340766082051511869, guid: 0dac6b41080233344bee9fd167de0074, type: 3}
+  - {fileID: -1709502432475885918, guid: 2708563b97bec1747885327868316f10, type: 3}
   - {fileID: -5894312021741272784, guid: 9d0e9fbe54d417e4581c24b9b8451826, type: 3}
+  - {fileID: 6470270117738414659, guid: 0ec2686fa720ae642a73f62786c0e527, type: 3}
   m_PackedSpriteNamesToIndex:
+  - CHARACTER_SELECT_LETO
   - CHARACTER_SELECT_KYNES
   - CHARACTER_SELECT_VLADIMIR
+  - CHARACTER_SELECT_SHADDAM
   m_RenderDataMap: {}
   m_Tag: dune-character-select
   m_IsVariant: 0
