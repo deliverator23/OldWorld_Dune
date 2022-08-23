@@ -64,7 +64,7 @@ TextureImporter:
     second: dune_portraits_greathouses_male_1_19
   - first:
       213: 5905384951418263747
-    second: dune_portraits_greathouses_male_1_20
+    second: GREATHOUSES_MALE_04_TEEN
   - first:
       213: -7797457296330207990
     second: dune_portraits_greathouses_male_1_21
@@ -616,7 +616,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_greathouses_male_1_20
+      name: GREATHOUSES_MALE_04_TEEN
       rect:
         serializedVersion: 2
         x: 262
