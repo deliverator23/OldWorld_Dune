@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: 971abc1bf15ce524bbe674da4a714bce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6294878780760400134
+    second: dune_portraits_characters_0
+  - first:
+      213: 3284152355117787940
+    second: dune_portraits_characters_1
+  - first:
+      213: -3997778573734727561
+    second: dune_portraits_characters_2
+  - first:
+      213: 2504604803508322374
+    second: dune_portraits_characters_3
+  - first:
+      213: -8577842090865112740
+    second: dune_portraits_characters_4
+  - first:
+      213: 5306434999020425322
+    second: dune_portraits_characters_5
+  - first:
+      213: -5728263471288456737
+    second: dune_portraits_characters_6
+  - first:
+      213: -690898405328171853
+    second: dune_portraits_characters_7
+  - first:
+      213: -8521683751153239305
+    second: dune_portraits_characters_8
+  - first:
+      213: -2789180265175193891
+    second: DUNE_PORTRAIT_SHADDAM_ADULT
+  - first:
+      213: -4951078095523421702
+    second: DUNE_PORTRAIT_SHADDAM_SENIOR
+  - first:
+      213: -3128116389604390006
+    second: dune_portraits_characters_11
+  - first:
+      213: 623524172082314246
+    second: dune_portraits_characters_12
+  - first:
+      213: -447881031698561929
+    second: dune_portraits_characters_13
+  - first:
+      213: -3424898823740762458
+    second: dune_portraits_characters_14
+  - first:
+      213: -1242179547320727254
+    second: dune_portraits_characters_15
+  - first:
+      213: 903891313093788307
+    second: dune_portraits_characters_16
+  - first:
+      213: -6386896012007929873
+    second: dune_portraits_characters_17
+  - first:
+      213: 826005499640434975
+    second: dune_portraits_characters_18
+  - first:
+      213: -4498532795330916352
+    second: dune_portraits_characters_19
+  - first:
+      213: 6301238370265548760
+    second: dune_portraits_characters_20
+  - first:
+      213: -5007799591247065679
+    second: dune_portraits_characters_21
+  - first:
+      213: 5720314585816689769
+    second: dune_portraits_characters_22
+  - first:
+      213: -698215186054935695
+    second: dune_portraits_characters_23
+  - first:
+      213: 301576477364145253
+    second: dune_portraits_characters_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dune_portraits_characters_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1790
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6012e5f36e6eb5750800000000000000
+      internalID: 6294878780760400134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_characters_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1790
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bee03ba27a39d20800000000000000
+      internalID: 3284152355117787940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_characters_2
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1790
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770bfdd71990588c0800000000000000
+      internalID: -3997778573734727561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_characters_3
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1790
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640c9df7cc422c220800000000000000
+      internalID: 2504604803508322374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_characters_4
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1790
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c594792d01265f880800000000000000
+      internalID: -8577842090865112740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_characters_5
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1790
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a601054548e34a940800000000000000
+      internalID: 5306434999020425322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_characters_6
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1790
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd96106f8be1180b0800000000000000
+      internalID: -5728263471288456737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_characters_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1530
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcc7869f8f6966f0800000000000000
+      internalID: -690898405328171853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_characters_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1530
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fafa4437c5ecb980800000000000000
+      internalID: -8521683751153239305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_SHADDAM_ADULT
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1530
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6e3b79357da49d0800000000000000
+      internalID: -2789180265175193891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_SHADDAM_SENIOR
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1530
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1eb1d34bc3a4bb0800000000000000
+      internalID: -4951078095523421702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_characters_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1270
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b8d8597b2b694d0800000000000000
+      internalID: -3128116389604390006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_characters_12
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1270
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cf5d15ee337a800800000000000000
+      internalID: 623524172082314246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_characters_13
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1270
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774c8fb139ec8c9f0800000000000000
+      internalID: -447881031698561929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_characters_14
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1270
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6574b6aa05870d0800000000000000
+      internalID: -3424898823740762458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_characters_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1010
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2941b67844e2cee0800000000000000
+      internalID: -1242179547320727254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_characters_16
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1010
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39244883c544b8c00800000000000000
+      internalID: 903891313093788307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_characters_17
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1010
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe788e29aef2d57a0800000000000000
+      internalID: -6386896012007929873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_characters_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 750
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11569420af867b00800000000000000
+      internalID: 826005499640434975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_characters_19
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 750
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0001bd3c1400291c0800000000000000
+      internalID: -4498532795330916352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_characters_20
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 750
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d74db099ee727750800000000000000
+      internalID: 6301238370265548760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_characters_21
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 750
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd4f51edc8b08ab0800000000000000
+      internalID: -5007799591247065679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_characters_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 490
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ce61beec3a26f40800000000000000
+      internalID: 5720314585816689769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_characters_23
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 490
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b8962dcf07f46f0800000000000000
+      internalID: -698215186054935695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dune_portraits_characters_24
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 490
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c47e5553a6f2400800000000000000
+      internalID: 301576477364145253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

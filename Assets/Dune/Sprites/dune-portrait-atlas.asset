@@ -46,6 +46,7 @@ SpriteAtlas:
     - {fileID: 2800000, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
     - {fileID: 2800000, guid: 0b7d490173cf988428b413a27634cd58, type: 3}
     - {fileID: 2800000, guid: c78129ed424e5324489d27480d67c207, type: 3}
+    - {fileID: 2800000, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
     bindAsDefault: 0
     isAtlasV2: 0
     cachedData: {fileID: 0}
@@ -80,6 +81,31 @@ SpriteAtlas:
   - {fileID: -5718190807019456755, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
   - {fileID: -3776612804842318991, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
   - {fileID: 1524317693293923571, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
+  - {fileID: -2789180265175193891, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: 301576477364145253, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: 6301238370265548760, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: -5007799591247065679, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: 5720314585816689769, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: -698215186054935695, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: -4498532795330916352, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: 826005499640434975, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: -1242179547320727254, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: -3424898823740762458, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: -6386896012007929873, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: 903891313093788307, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: -3128116389604390006, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: -447881031698561929, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: 623524172082314246, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: -4951078095523421702, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: -8521683751153239305, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: -5728263471288456737, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: -690898405328171853, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: -8577842090865112740, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: 5306434999020425322, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: -3997778573734727561, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: 2504604803508322374, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: 6294878780760400134, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: 3284152355117787940, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
   - {fileID: 5969520743072367509, guid: c78129ed424e5324489d27480d67c207, type: 3}
   - {fileID: -2318483424737146371, guid: c78129ed424e5324489d27480d67c207, type: 3}
   - {fileID: 3769729554579737923, guid: c78129ed424e5324489d27480d67c207, type: 3}
@@ -97,7 +123,6 @@ SpriteAtlas:
   - {fileID: 7409394536848450558, guid: c78129ed424e5324489d27480d67c207, type: 3}
   - {fileID: 3567586007645909430, guid: c78129ed424e5324489d27480d67c207, type: 3}
   - {fileID: -1799685555591224816, guid: c78129ed424e5324489d27480d67c207, type: 3}
-  - {fileID: -2261149068770730453, guid: c78129ed424e5324489d27480d67c207, type: 3}
   - {fileID: -6222275536976260578, guid: c78129ed424e5324489d27480d67c207, type: 3}
   - {fileID: -6044931756826883587, guid: c78129ed424e5324489d27480d67c207, type: 3}
   - {fileID: 8725362504776956438, guid: c78129ed424e5324489d27480d67c207, type: 3}
@@ -160,6 +185,31 @@ SpriteAtlas:
   - DUNE_PORTRAIT_GURNEY
   - DUNE_PORTRAIT_CHANI
   - DUNE_PORTRAIT_GLOSSU
+  - DUNE_PORTRAIT_SHADDAM_ADULT
+  - dune_portraits_characters_24
+  - dune_portraits_characters_20
+  - dune_portraits_characters_21
+  - dune_portraits_characters_22
+  - dune_portraits_characters_23
+  - dune_portraits_characters_19
+  - dune_portraits_characters_18
+  - dune_portraits_characters_15
+  - dune_portraits_characters_14
+  - dune_portraits_characters_17
+  - dune_portraits_characters_16
+  - dune_portraits_characters_11
+  - dune_portraits_characters_13
+  - dune_portraits_characters_12
+  - DUNE_PORTRAIT_SHADDAM_SENIOR
+  - dune_portraits_characters_8
+  - dune_portraits_characters_6
+  - dune_portraits_characters_7
+  - dune_portraits_characters_4
+  - dune_portraits_characters_5
+  - dune_portraits_characters_2
+  - dune_portraits_characters_3
+  - dune_portraits_characters_0
+  - dune_portraits_characters_1
   - GREATHOUSES_FEMALE_08_TEEN
   - GREATHOUSES_FEMALE_05_YOUTH
   - GREATHOUSES_FEMALE_10_ADULT
@@ -177,7 +227,6 @@ SpriteAtlas:
   - GREATHOUSES_FEMALE_12_SENIOR
   - GREATHOUSES_FEMALE_07_YOUTH
   - GREATHOUSES_FEMALE_04_SENIOR
-  - dune_portraits_greathouses_female_1_50
   - GREATHOUSES_FEMALE_03_TEEN
   - GREATHOUSES_FEMALE_13_ADULT
   - GREATHOUSES_FEMALE_07_ADULT
