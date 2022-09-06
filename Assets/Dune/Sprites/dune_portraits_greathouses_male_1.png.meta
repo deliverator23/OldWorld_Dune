@@ -4,109 +4,148 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: 3329218894492884889
-    second: GREATHOUSES_MALE_01_TEEN
+    second: GREATHOUSES_MALE_1_1
   - first:
       213: 5683844245245065958
-    second: GREATHOUSES_MALE_01_ADULT
+    second: GREATHOUSES_MALE_1_2
   - first:
       213: 1604230075272098014
-    second: GREATHOUSES_MALE_01_SENIOR
+    second: GREATHOUSES_MALE_1_3
   - first:
       213: 3884234452697021219
-    second: dune_portraits_greathouses_male_1_3
+    second: GREATHOUSES_MALE_1_4
   - first:
       213: 4188505320544985710
-    second: dune_portraits_greathouses_male_1_4
+    second: GREATHOUSES_MALE_7_2
   - first:
       213: -6027445473501865901
-    second: dune_portraits_greathouses_male_1_5
+    second: GREATHOUSES_MALE_7_3
   - first:
       213: -9064554206794159157
-    second: GREATHOUSES_MALE_02_TEEN
+    second: GREATHOUSES_MALE_7_4
   - first:
       213: -5062228928037490159
-    second: dune_portraits_greathouses_male_1_7
+    second: GREATHOUSES_MALE_2_1
   - first:
       213: -8119478238080985055
-    second: dune_portraits_greathouses_male_1_8
+    second: GREATHOUSES_MALE_2_2
   - first:
       213: 1891840318367963078
-    second: dune_portraits_greathouses_male_1_9
+    second: GREATHOUSES_MALE_2_3
   - first:
       213: -2705862282200769151
-    second: dune_portraits_greathouses_male_1_10
+    second: GREATHOUSES_MALE_2_4
   - first:
       213: 7231598758014028061
-    second: dune_portraits_greathouses_male_1_11
+    second: GREATHOUSES_MALE_8_2
   - first:
       213: -6650156311197858029
-    second: dune_portraits_greathouses_male_1_12
+    second: GREATHOUSES_MALE_8_3
   - first:
       213: 7497084193007557633
-    second: GREATHOUSES_MALE_03_TEEN
+    second: GREATHOUSES_MALE_8_4
   - first:
       213: 5966796858776169397
-    second: dune_portraits_greathouses_male_1_14
+    second: GREATHOUSES_MALE_3_1
   - first:
       213: 8955431895113077519
-    second: dune_portraits_greathouses_male_1_15
+    second: GREATHOUSES_MALE_3_2
   - first:
       213: 1766880361758135995
-    second: dune_portraits_greathouses_male_1_16
+    second: GREATHOUSES_MALE_3_3
   - first:
       213: -7665641034904216969
-    second: dune_portraits_greathouses_male_1_17
+    second: GREATHOUSES_MALE_3_4
   - first:
       213: 4639314194748852016
-    second: dune_portraits_greathouses_male_1_18
+    second: GREATHOUSES_MALE_9_2
   - first:
       213: 726135521394204267
-    second: dune_portraits_greathouses_male_1_19
+    second: GREATHOUSES_MALE_9_3
   - first:
       213: 5905384951418263747
-    second: GREATHOUSES_MALE_04_TEEN
+    second: GREATHOUSES_MALE_9_4
   - first:
       213: -7797457296330207990
-    second: dune_portraits_greathouses_male_1_21
+    second: GREATHOUSES_MALE_4_1
   - first:
       213: -206141184281705097
-    second: dune_portraits_greathouses_male_1_22
+    second: GREATHOUSES_MALE_4_2
   - first:
       213: 7863131375290892647
-    second: dune_portraits_greathouses_male_1_23
+    second: GREATHOUSES_MALE_4_3
   - first:
       213: 5450824633656203443
-    second: dune_portraits_greathouses_male_1_24
+    second: GREATHOUSES_MALE_4_4
   - first:
       213: 7462127392345031565
-    second: dune_portraits_greathouses_male_1_25
+    second: GREATHOUSES_MALE_10_2
   - first:
       213: 4231856164917563138
-    second: dune_portraits_greathouses_male_1_26
+    second: GREATHOUSES_MALE_10_3
   - first:
       213: -2823703314251181974
-    second: dune_portraits_greathouses_male_1_27
+    second: GREATHOUSES_MALE_10_4
   - first:
       213: 5592355996005141427
-    second: dune_portraits_greathouses_male_1_28
+    second: GREATHOUSES_MALE_5_1
   - first:
       213: 5505715125717063654
-    second: dune_portraits_greathouses_male_1_29
+    second: GREATHOUSES_MALE_5_2
   - first:
       213: -5476222427657337901
-    second: dune_portraits_greathouses_male_1_30
+    second: GREATHOUSES_MALE_5_3
   - first:
       213: 5450921783957686154
-    second: dune_portraits_greathouses_male_1_31
+    second: GREATHOUSES_MALE_5_4
   - first:
       213: 6655033341470751914
-    second: dune_portraits_greathouses_male_1_32
+    second: GREATHOUSES_MALE_11_2
   - first:
       213: -5669816539926442686
-    second: dune_portraits_greathouses_male_1_33
+    second: GREATHOUSES_MALE_11_3
   - first:
       213: 115198882573603989
-    second: dune_portraits_greathouses_male_1_34
+    second: GREATHOUSES_MALE_11_4
+  - first:
+      213: 4979796828902710031
+    second: GREATHOUSES_MALE_6_1
+  - first:
+      213: -6528208078223152070
+    second: GREATHOUSES_MALE_6_2
+  - first:
+      213: 1561741509797512092
+    second: GREATHOUSES_MALE_6_3
+  - first:
+      213: -7917323116533930457
+    second: GREATHOUSES_MALE_6_4
+  - first:
+      213: -2277257711597795107
+    second: GREATHOUSES_MALE_12_2
+  - first:
+      213: -2354289000781724120
+    second: GREATHOUSES_MALE_12_3
+  - first:
+      213: -311692475703925510
+    second: GREATHOUSES_MALE_12_4
+  - first:
+      213: -2150452494617120445
+    second: GREATHOUSES_MALE_7_1
+  - first:
+      213: -1853785572075937207
+    second: GREATHOUSES_MALE_8_1
+  - first:
+      213: -418530386370991606
+    second: GREATHOUSES_MALE_9_1
+  - first:
+      213: -952668854138681847
+    second: GREATHOUSES_MALE_10_1
+  - first:
+      213: 2851328804124507667
+    second: GREATHOUSES_MALE_11_1
+  - first:
+      213: -6731334405103839646
+    second: GREATHOUSES_MALE_12_1
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -196,10 +235,10 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: GREATHOUSES_MALE_01_TEEN
+      name: GREATHOUSES_MALE_1_1
       rect:
         serializedVersion: 2
-        x: 262
+        x: 2
         y: 1790
         width: 256
         height: 256
@@ -217,10 +256,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GREATHOUSES_MALE_01_ADULT
+      name: GREATHOUSES_MALE_1_2
       rect:
         serializedVersion: 2
-        x: 522
+        x: 262
         y: 1790
         width: 256
         height: 256
@@ -238,10 +277,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GREATHOUSES_MALE_01_SENIOR
+      name: GREATHOUSES_MALE_1_3
       rect:
         serializedVersion: 2
-        x: 782
+        x: 522
         y: 1790
         width: 256
         height: 256
@@ -259,10 +298,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_greathouses_male_1_3
+      name: GREATHOUSES_MALE_1_4
       rect:
         serializedVersion: 2
-        x: 1042
+        x: 782
         y: 1790
         width: 256
         height: 256
@@ -280,10 +319,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_greathouses_male_1_4
+      name: GREATHOUSES_MALE_7_2
       rect:
         serializedVersion: 2
-        x: 1302
+        x: 1042
         y: 1790
         width: 256
         height: 256
@@ -301,10 +340,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_greathouses_male_1_5
+      name: GREATHOUSES_MALE_7_3
       rect:
         serializedVersion: 2
-        x: 1562
+        x: 1302
         y: 1790
         width: 256
         height: 256
@@ -322,11 +361,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GREATHOUSES_MALE_02_TEEN
+      name: GREATHOUSES_MALE_7_4
       rect:
         serializedVersion: 2
-        x: 262
-        y: 1530
+        x: 1562
+        y: 1790
         width: 256
         height: 256
       alignment: 0
@@ -343,10 +382,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_greathouses_male_1_7
+      name: GREATHOUSES_MALE_2_1
       rect:
         serializedVersion: 2
-        x: 522
+        x: 2
         y: 1530
         width: 256
         height: 256
@@ -364,10 +403,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_greathouses_male_1_8
+      name: GREATHOUSES_MALE_2_2
       rect:
         serializedVersion: 2
-        x: 782
+        x: 262
         y: 1530
         width: 256
         height: 256
@@ -385,10 +424,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_greathouses_male_1_9
+      name: GREATHOUSES_MALE_2_3
       rect:
         serializedVersion: 2
-        x: 1042
+        x: 522
         y: 1530
         width: 256
         height: 256
@@ -406,10 +445,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_greathouses_male_1_10
+      name: GREATHOUSES_MALE_2_4
       rect:
         serializedVersion: 2
-        x: 1302
+        x: 782
         y: 1530
         width: 256
         height: 256
@@ -427,10 +466,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_greathouses_male_1_11
+      name: GREATHOUSES_MALE_8_2
       rect:
         serializedVersion: 2
-        x: 1562
+        x: 1042
         y: 1530
         width: 256
         height: 256
@@ -448,11 +487,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_greathouses_male_1_12
+      name: GREATHOUSES_MALE_8_3
       rect:
         serializedVersion: 2
-        x: 2
-        y: 1270
+        x: 1302
+        y: 1530
         width: 256
         height: 256
       alignment: 0
@@ -469,11 +508,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GREATHOUSES_MALE_03_TEEN
+      name: GREATHOUSES_MALE_8_4
       rect:
         serializedVersion: 2
-        x: 262
-        y: 1270
+        x: 1562
+        y: 1530
         width: 256
         height: 256
       alignment: 0
@@ -490,10 +529,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_greathouses_male_1_14
+      name: GREATHOUSES_MALE_3_1
       rect:
         serializedVersion: 2
-        x: 522
+        x: 2
         y: 1270
         width: 256
         height: 256
@@ -511,10 +550,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_greathouses_male_1_15
+      name: GREATHOUSES_MALE_3_2
       rect:
         serializedVersion: 2
-        x: 782
+        x: 262
         y: 1270
         width: 256
         height: 256
@@ -532,10 +571,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_greathouses_male_1_16
+      name: GREATHOUSES_MALE_3_3
       rect:
         serializedVersion: 2
-        x: 1042
+        x: 522
         y: 1270
         width: 256
         height: 256
@@ -553,10 +592,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_greathouses_male_1_17
+      name: GREATHOUSES_MALE_3_4
       rect:
         serializedVersion: 2
-        x: 1302
+        x: 782
         y: 1270
         width: 256
         height: 256
@@ -574,10 +613,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_greathouses_male_1_18
+      name: GREATHOUSES_MALE_9_2
       rect:
         serializedVersion: 2
-        x: 1562
+        x: 1042
         y: 1270
         width: 256
         height: 256
@@ -595,11 +634,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_greathouses_male_1_19
+      name: GREATHOUSES_MALE_9_3
       rect:
         serializedVersion: 2
-        x: 2
-        y: 1010
+        x: 1302
+        y: 1270
         width: 256
         height: 256
       alignment: 0
@@ -616,11 +655,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GREATHOUSES_MALE_04_TEEN
+      name: GREATHOUSES_MALE_9_4
       rect:
         serializedVersion: 2
-        x: 262
-        y: 1010
+        x: 1562
+        y: 1270
         width: 256
         height: 256
       alignment: 0
@@ -637,10 +676,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_greathouses_male_1_21
+      name: GREATHOUSES_MALE_4_1
       rect:
         serializedVersion: 2
-        x: 522
+        x: 2
         y: 1010
         width: 256
         height: 256
@@ -658,10 +697,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_greathouses_male_1_22
+      name: GREATHOUSES_MALE_4_2
       rect:
         serializedVersion: 2
-        x: 782
+        x: 262
         y: 1010
         width: 256
         height: 256
@@ -679,11 +718,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_greathouses_male_1_23
+      name: GREATHOUSES_MALE_4_3
       rect:
         serializedVersion: 2
-        x: 2
-        y: 750
+        x: 522
+        y: 1010
         width: 256
         height: 256
       alignment: 0
@@ -700,11 +739,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_greathouses_male_1_24
+      name: GREATHOUSES_MALE_4_4
       rect:
         serializedVersion: 2
-        x: 262
-        y: 750
+        x: 782
+        y: 1010
         width: 256
         height: 256
       alignment: 0
@@ -721,11 +760,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_greathouses_male_1_25
+      name: GREATHOUSES_MALE_10_2
       rect:
         serializedVersion: 2
-        x: 522
-        y: 750
+        x: 1042
+        y: 1010
         width: 256
         height: 256
       alignment: 0
@@ -742,11 +781,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_greathouses_male_1_26
+      name: GREATHOUSES_MALE_10_3
       rect:
         serializedVersion: 2
-        x: 782
-        y: 750
+        x: 1302
+        y: 1010
         width: 256
         height: 256
       alignment: 0
@@ -763,11 +802,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_greathouses_male_1_27
+      name: GREATHOUSES_MALE_10_4
       rect:
         serializedVersion: 2
-        x: 2
-        y: 490
+        x: 1562
+        y: 1010
         width: 256
         height: 256
       alignment: 0
@@ -784,11 +823,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_greathouses_male_1_28
+      name: GREATHOUSES_MALE_5_1
       rect:
         serializedVersion: 2
-        x: 262
-        y: 490
+        x: 2
+        y: 750
         width: 256
         height: 256
       alignment: 0
@@ -805,11 +844,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_greathouses_male_1_29
+      name: GREATHOUSES_MALE_5_2
       rect:
         serializedVersion: 2
-        x: 522
-        y: 490
+        x: 262
+        y: 750
         width: 256
         height: 256
       alignment: 0
@@ -826,11 +865,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_greathouses_male_1_30
+      name: GREATHOUSES_MALE_5_3
       rect:
         serializedVersion: 2
-        x: 782
-        y: 490
+        x: 522
+        y: 750
         width: 256
         height: 256
       alignment: 0
@@ -847,11 +886,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_greathouses_male_1_31
+      name: GREATHOUSES_MALE_5_4
       rect:
         serializedVersion: 2
-        x: 2
-        y: 230
+        x: 782
+        y: 750
         width: 256
         height: 256
       alignment: 0
@@ -868,11 +907,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_greathouses_male_1_32
+      name: GREATHOUSES_MALE_11_2
       rect:
         serializedVersion: 2
-        x: 262
-        y: 230
+        x: 1042
+        y: 750
         width: 256
         height: 256
       alignment: 0
@@ -889,11 +928,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_greathouses_male_1_33
+      name: GREATHOUSES_MALE_11_3
       rect:
         serializedVersion: 2
-        x: 522
-        y: 230
+        x: 1302
+        y: 750
         width: 256
         height: 256
       alignment: 0
@@ -910,7 +949,238 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_greathouses_male_1_34
+      name: GREATHOUSES_MALE_11_4
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 750
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594525af5c4499100800000000000000
+      internalID: 115198882573603989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_MALE_6_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 490
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bdc50f4dacb1540800000000000000
+      internalID: 4979796828902710031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_MALE_6_2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 490
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c6cad37552765a0800000000000000
+      internalID: -6528208078223152070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_MALE_6_3
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 490
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c938672f0ab6ca510800000000000000
+      internalID: 1561741509797512092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_MALE_6_4
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 490
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726a103c294002290800000000000000
+      internalID: -7917323116533930457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_MALE_12_2
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 490
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8c13e3d2e8560e0800000000000000
+      internalID: -2277257711597795107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_MALE_12_3
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 490
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826cbc990a2e35fd0800000000000000
+      internalID: -2354289000781724120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_MALE_12_4
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 490
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af461824855acabf0800000000000000
+      internalID: -311692475703925510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_MALE_7_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 230
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3417ef789de0822e0800000000000000
+      internalID: -2150452494617120445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_MALE_8_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 230
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9426bae08d70646e0800000000000000
+      internalID: -1853785572075937207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_MALE_9_1
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 230
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a66a0c4d4113af0800000000000000
+      internalID: -418530386370991606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_MALE_10_1
       rect:
         serializedVersion: 2
         x: 782
@@ -924,8 +1194,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 594525af5c4499100800000000000000
-      internalID: 115198882573603989
+      spriteID: 9064c7089b077c2f0800000000000000
+      internalID: -952668854138681847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_MALE_11_1
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 230
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e3eabb074f19720800000000000000
+      internalID: 2851328804124507667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GREATHOUSES_MALE_12_1
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 230
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2669b6fc50f7592a0800000000000000
+      internalID: -6731334405103839646
       vertices: []
       indices: 
       edges: []

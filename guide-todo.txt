@@ -1,0 +1,6 @@
+
+Feedback from:
+https://forums.civfanatics.com/threads/how-to-add-new-assets-step-by-step.677340/post-16316572
+
+Install TextMeshPro - Package Manager
+

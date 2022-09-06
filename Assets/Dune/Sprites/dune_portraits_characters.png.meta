@@ -4,79 +4,79 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: 6294878780760400134
-    second: dune_portraits_characters_0
+    second: DUNE_PORTRAIT_JESSICA_1
   - first:
       213: 3284152355117787940
-    second: dune_portraits_characters_1
+    second: DUNE_PORTRAIT_JESSICA_2
   - first:
       213: -3997778573734727561
-    second: dune_portraits_characters_2
+    second: DUNE_PORTRAIT_JESSICA_3
   - first:
       213: 2504604803508322374
-    second: dune_portraits_characters_3
+    second: DUNE_PORTRAIT_JESSICA_4
   - first:
       213: -8577842090865112740
-    second: dune_portraits_characters_4
+    second: DUNE_PORTRAIT_YUEH_1
   - first:
       213: 5306434999020425322
-    second: dune_portraits_characters_5
+    second: DUNE_PORTRAIT_YUEH_2
   - first:
       213: -5728263471288456737
-    second: dune_portraits_characters_6
+    second: DUNE_PORTRAIT_YUEH_3
   - first:
       213: -690898405328171853
-    second: dune_portraits_characters_7
+    second: DUNE_PORTRAIT_LETO_3
   - first:
       213: -8521683751153239305
-    second: dune_portraits_characters_8
+    second: DUNE_PORTRAIT_LETO_4
   - first:
       213: -2789180265175193891
-    second: DUNE_PORTRAIT_SHADDAM_ADULT
+    second: DUNE_PORTRAIT_SHADDAM_3
   - first:
       213: -4951078095523421702
-    second: DUNE_PORTRAIT_SHADDAM_SENIOR
+    second: DUNE_PORTRAIT_SHADDAM_4
   - first:
       213: -3128116389604390006
-    second: dune_portraits_characters_11
+    second: DUNE_PORTRAIT_PAUL_1
   - first:
       213: 623524172082314246
-    second: dune_portraits_characters_12
+    second: DUNE_PORTRAIT_PAUL_2
   - first:
       213: -447881031698561929
-    second: dune_portraits_characters_13
+    second: DUNE_PORTRAIT_PAUL_3
   - first:
       213: -3424898823740762458
-    second: dune_portraits_characters_14
+    second: DUNE_PORTRAIT_PAUL_4
   - first:
       213: -1242179547320727254
-    second: dune_portraits_characters_15
+    second: DUNE_PORTRAIT_CHANI_1
   - first:
       213: 903891313093788307
-    second: dune_portraits_characters_16
+    second: DUNE_PORTRAIT_CHANI_2
   - first:
       213: -6386896012007929873
-    second: dune_portraits_characters_17
+    second: DUNE_PORTRAIT_CHANI_3
   - first:
       213: 826005499640434975
-    second: dune_portraits_characters_18
+    second: DUNE_PORTRAIT_KYNES_3
   - first:
       213: -4498532795330916352
-    second: dune_portraits_characters_19
+    second: DUNE_PORTRAIT_KYNES_4
   - first:
       213: 6301238370265548760
-    second: dune_portraits_characters_20
+    second: DUNE_PORTRAIT_VLAD_3
   - first:
       213: -5007799591247065679
-    second: dune_portraits_characters_21
+    second: DUNE_PORTRAIT_VLAD_4
   - first:
       213: 5720314585816689769
-    second: dune_portraits_characters_22
+    second: DUNE_PORTRAIT_FAROULA_1
   - first:
       213: -698215186054935695
-    second: dune_portraits_characters_23
+    second: DUNE_PORTRAIT_FAROULA_2
   - first:
       213: 301576477364145253
-    second: dune_portraits_characters_24
+    second: DUNE_PORTRAIT_FAROULA_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -166,7 +166,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: dune_portraits_characters_0
+      name: DUNE_PORTRAIT_JESSICA_1
       rect:
         serializedVersion: 2
         x: 2
@@ -187,7 +187,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_characters_1
+      name: DUNE_PORTRAIT_JESSICA_2
       rect:
         serializedVersion: 2
         x: 262
@@ -208,7 +208,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_characters_2
+      name: DUNE_PORTRAIT_JESSICA_3
       rect:
         serializedVersion: 2
         x: 522
@@ -229,7 +229,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_characters_3
+      name: DUNE_PORTRAIT_JESSICA_4
       rect:
         serializedVersion: 2
         x: 782
@@ -250,7 +250,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_characters_4
+      name: DUNE_PORTRAIT_YUEH_1
       rect:
         serializedVersion: 2
         x: 1042
@@ -271,7 +271,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_characters_5
+      name: DUNE_PORTRAIT_YUEH_2
       rect:
         serializedVersion: 2
         x: 1302
@@ -292,7 +292,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_characters_6
+      name: DUNE_PORTRAIT_YUEH_3
       rect:
         serializedVersion: 2
         x: 1562
@@ -313,7 +313,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_characters_7
+      name: DUNE_PORTRAIT_LETO_3
       rect:
         serializedVersion: 2
         x: 2
@@ -334,7 +334,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_characters_8
+      name: DUNE_PORTRAIT_LETO_4
       rect:
         serializedVersion: 2
         x: 262
@@ -355,7 +355,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DUNE_PORTRAIT_SHADDAM_ADULT
+      name: DUNE_PORTRAIT_SHADDAM_3
       rect:
         serializedVersion: 2
         x: 522
@@ -376,7 +376,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DUNE_PORTRAIT_SHADDAM_SENIOR
+      name: DUNE_PORTRAIT_SHADDAM_4
       rect:
         serializedVersion: 2
         x: 782
@@ -397,7 +397,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_characters_11
+      name: DUNE_PORTRAIT_PAUL_1
       rect:
         serializedVersion: 2
         x: 2
@@ -418,7 +418,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_characters_12
+      name: DUNE_PORTRAIT_PAUL_2
       rect:
         serializedVersion: 2
         x: 262
@@ -439,7 +439,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_characters_13
+      name: DUNE_PORTRAIT_PAUL_3
       rect:
         serializedVersion: 2
         x: 522
@@ -460,7 +460,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_characters_14
+      name: DUNE_PORTRAIT_PAUL_4
       rect:
         serializedVersion: 2
         x: 782
@@ -481,7 +481,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_characters_15
+      name: DUNE_PORTRAIT_CHANI_1
       rect:
         serializedVersion: 2
         x: 2
@@ -502,7 +502,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_characters_16
+      name: DUNE_PORTRAIT_CHANI_2
       rect:
         serializedVersion: 2
         x: 262
@@ -523,7 +523,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_characters_17
+      name: DUNE_PORTRAIT_CHANI_3
       rect:
         serializedVersion: 2
         x: 522
@@ -544,7 +544,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_characters_18
+      name: DUNE_PORTRAIT_KYNES_3
       rect:
         serializedVersion: 2
         x: 2
@@ -565,7 +565,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_characters_19
+      name: DUNE_PORTRAIT_KYNES_4
       rect:
         serializedVersion: 2
         x: 262
@@ -586,7 +586,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_characters_20
+      name: DUNE_PORTRAIT_VLAD_3
       rect:
         serializedVersion: 2
         x: 522
@@ -607,7 +607,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_characters_21
+      name: DUNE_PORTRAIT_VLAD_4
       rect:
         serializedVersion: 2
         x: 782
@@ -628,7 +628,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_characters_22
+      name: DUNE_PORTRAIT_FAROULA_1
       rect:
         serializedVersion: 2
         x: 2
@@ -649,7 +649,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_characters_23
+      name: DUNE_PORTRAIT_FAROULA_2
       rect:
         serializedVersion: 2
         x: 262
@@ -670,7 +670,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dune_portraits_characters_24
+      name: DUNE_PORTRAIT_FAROULA_3
       rect:
         serializedVersion: 2
         x: 522

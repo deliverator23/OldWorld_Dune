@@ -43,69 +43,39 @@ SpriteAtlas:
     secondaryTextureSettings: {}
     variantMultiplier: 0.1
     packables:
-    - {fileID: 2800000, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
-    - {fileID: 2800000, guid: 0b7d490173cf988428b413a27634cd58, type: 3}
-    - {fileID: 2800000, guid: c78129ed424e5324489d27480d67c207, type: 3}
     - {fileID: 2800000, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+    - {fileID: 2800000, guid: c78129ed424e5324489d27480d67c207, type: 3}
+    - {fileID: 2800000, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
     bindAsDefault: 0
     isAtlasV2: 0
     cachedData: {fileID: 0}
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
-  - {fileID: -2714904164051616805, guid: 0b7d490173cf988428b413a27634cd58, type: 3}
-  - {fileID: 90889807706275432, guid: 0b7d490173cf988428b413a27634cd58, type: 3}
-  - {fileID: 6582660077668509109, guid: 0b7d490173cf988428b413a27634cd58, type: 3}
-  - {fileID: -2119974595626126786, guid: 0b7d490173cf988428b413a27634cd58, type: 3}
-  - {fileID: -4746721410017942473, guid: 0b7d490173cf988428b413a27634cd58, type: 3}
-  - {fileID: -3805111321727277230, guid: 0b7d490173cf988428b413a27634cd58, type: 3}
-  - {fileID: -4522400305992389507, guid: 0b7d490173cf988428b413a27634cd58, type: 3}
-  - {fileID: -2154978213223688128, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
-  - {fileID: 7572076457525505144, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
-  - {fileID: -9150692039581011234, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
-  - {fileID: -453489763068646304, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
-  - {fileID: 6248629190891878677, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
-  - {fileID: 6405716926691210188, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
-  - {fileID: 3416456606028226365, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
-  - {fileID: -4307651971808450993, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
-  - {fileID: -1585037728253452592, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
-  - {fileID: 9172651086280150891, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
-  - {fileID: 9185684720686513673, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
-  - {fileID: -2963478613546903424, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
-  - {fileID: -9024226730596837030, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
-  - {fileID: -4075437209097649405, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
-  - {fileID: 8391543139935069157, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
-  - {fileID: -6053732642241515368, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
-  - {fileID: -7112320630434133790, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
-  - {fileID: -5957288322424704714, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
-  - {fileID: 7364489479361673374, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
-  - {fileID: -5718190807019456755, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
-  - {fileID: -3776612804842318991, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
-  - {fileID: 1524317693293923571, guid: a47eedea2c58b014db78bcbcebf301fa, type: 3}
+  - {fileID: 2504604803508322374, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: -4951078095523421702, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
   - {fileID: -2789180265175193891, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
-  - {fileID: 301576477364145253, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
-  - {fileID: 6301238370265548760, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
-  - {fileID: -5007799591247065679, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
-  - {fileID: 5720314585816689769, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
-  - {fileID: -698215186054935695, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
-  - {fileID: -4498532795330916352, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
-  - {fileID: 826005499640434975, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: -690898405328171853, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: -8521683751153239305, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
   - {fileID: -1242179547320727254, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
-  - {fileID: -3424898823740762458, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
-  - {fileID: -6386896012007929873, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
   - {fileID: 903891313093788307, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
-  - {fileID: -3128116389604390006, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: -6386896012007929873, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: -3424898823740762458, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
   - {fileID: -447881031698561929, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
   - {fileID: 623524172082314246, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
-  - {fileID: -4951078095523421702, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
-  - {fileID: -8521683751153239305, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
-  - {fileID: -5728263471288456737, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
-  - {fileID: -690898405328171853, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: -3128116389604390006, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: 301576477364145253, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: -698215186054935695, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: 5720314585816689769, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
   - {fileID: -8577842090865112740, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
   - {fileID: 5306434999020425322, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: -5728263471288456737, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: -4498532795330916352, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: 826005499640434975, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: 6301238370265548760, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: -5007799591247065679, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
   - {fileID: -3997778573734727561, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
-  - {fileID: 2504604803508322374, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
-  - {fileID: 6294878780760400134, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
   - {fileID: 3284152355117787940, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
+  - {fileID: 6294878780760400134, guid: 971abc1bf15ce524bbe674da4a714bce, type: 3}
   - {fileID: 5969520743072367509, guid: c78129ed424e5324489d27480d67c207, type: 3}
   - {fileID: -2318483424737146371, guid: c78129ed424e5324489d27480d67c207, type: 3}
   - {fileID: 3769729554579737923, guid: c78129ed424e5324489d27480d67c207, type: 3}
@@ -155,61 +125,80 @@ SpriteAtlas:
   - {fileID: -7756242123493323755, guid: c78129ed424e5324489d27480d67c207, type: 3}
   - {fileID: 2183451426808253803, guid: c78129ed424e5324489d27480d67c207, type: 3}
   - {fileID: -1673725361811673571, guid: c78129ed424e5324489d27480d67c207, type: 3}
+  - {fileID: -952668854138681847, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: 7462127392345031565, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: 4231856164917563138, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: -2823703314251181974, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: 3884234452697021219, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: 5683844245245065958, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: 1604230075272098014, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: 3329218894492884889, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: 7497084193007557633, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: -6650156311197858029, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: 5966796858776169397, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: 7231598758014028061, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: 8955431895113077519, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: -1853785572075937207, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: 1766880361758135995, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: -5062228928037490159, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: -7665641034904216969, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: 1891840318367963078, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: -8119478238080985055, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: -2705862282200769151, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: -311692475703925510, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: -2277257711597795107, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: -2354289000781724120, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: -6731334405103839646, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: 5505715125717063654, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: -5476222427657337901, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: 5592355996005141427, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: 7863131375290892647, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: 5450921783957686154, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: -206141184281705097, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: -7797457296330207990, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: 5450824633656203443, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: 2851328804124507667, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: -5669816539926442686, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: 6655033341470751914, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: 115198882573603989, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: -9064554206794159157, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: -2150452494617120445, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: -7917323116533930457, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: 4188505320544985710, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: -6027445473501865901, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: 4979796828902710031, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: 1561741509797512092, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: -6528208078223152070, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: 5905384951418263747, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: 4639314194748852016, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: 726135521394204267, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
+  - {fileID: -418530386370991606, guid: 71ac1d7f317fe7844adec90d3d33f67d, type: 3}
   m_PackedSpriteNamesToIndex:
-  - PORTRAIT_CHANI_SENIOR
-  - PORTRAIT_PAUL_TEEN
-  - PORTRAIT_CHANI_ADULT
-  - PORTRAIT_PAUL_ADULT
-  - PORTRAIT_PAUL_YOUTH
-  - PORTRAIT_PAUL_SENIOR
-  - PORTRAIT_CHANI_TEEN
-  - DUNE_PORTRAIT_STILGAR
-  - DUNE_PORTRAIT_GIRL_9YO
-  - DUNE_PORTRAIT_DUNCAN
-  - DUNE_PORTRAIT_JESSICA
-  - DUNE_PORTRAIT_GIRL_6YO
-  - DUNE_PORTRAIT_FENRING
-  - DUNE_PORTRAIT_GIRL_12YO
-  - DUNE_PORTRAIT_KYNES
-  - DUNE_PORTRAIT_SHADDAM
-  - DUNE_PORTRAIT_PAUL
-  - DUNE_PORTRAIT_VLADIMIR
-  - DUNE_PORTRAIT_ALIA_YOUTH
-  - DUNE_PORTRAIT_PITER
-  - DUNE_PORTRAIT_FREMEN_WOMAN_1
-  - DUNE_PORTRAIT_GIRL_3YO
-  - DUNE_PORTRAIT_LETO
-  - DUNE_PORTRAIT_ALIA_BABY
-  - DUNE_PORTRAIT_FEYD
-  - DUNE_PORTRAIT_IRULAN
-  - DUNE_PORTRAIT_GURNEY
-  - DUNE_PORTRAIT_CHANI
-  - DUNE_PORTRAIT_GLOSSU
-  - DUNE_PORTRAIT_SHADDAM_ADULT
-  - dune_portraits_characters_24
-  - dune_portraits_characters_20
-  - dune_portraits_characters_21
-  - dune_portraits_characters_22
-  - dune_portraits_characters_23
-  - dune_portraits_characters_19
-  - dune_portraits_characters_18
-  - dune_portraits_characters_15
-  - dune_portraits_characters_14
-  - dune_portraits_characters_17
-  - dune_portraits_characters_16
-  - dune_portraits_characters_11
-  - dune_portraits_characters_13
-  - dune_portraits_characters_12
-  - DUNE_PORTRAIT_SHADDAM_SENIOR
-  - dune_portraits_characters_8
-  - dune_portraits_characters_6
-  - dune_portraits_characters_7
-  - dune_portraits_characters_4
-  - dune_portraits_characters_5
-  - dune_portraits_characters_2
-  - dune_portraits_characters_3
-  - dune_portraits_characters_0
-  - dune_portraits_characters_1
+  - DUNE_PORTRAIT_JESSICA_4
+  - DUNE_PORTRAIT_SHADDAM_4
+  - DUNE_PORTRAIT_SHADDAM_3
+  - DUNE_PORTRAIT_LETO_3
+  - DUNE_PORTRAIT_LETO_4
+  - DUNE_PORTRAIT_CHANI_1
+  - DUNE_PORTRAIT_CHANI_2
+  - DUNE_PORTRAIT_CHANI_3
+  - DUNE_PORTRAIT_PAUL_4
+  - DUNE_PORTRAIT_PAUL_3
+  - DUNE_PORTRAIT_PAUL_2
+  - DUNE_PORTRAIT_PAUL_1
+  - DUNE_PORTRAIT_FAROULA_3
+  - DUNE_PORTRAIT_FAROULA_2
+  - DUNE_PORTRAIT_FAROULA_1
+  - DUNE_PORTRAIT_YUEH_1
+  - DUNE_PORTRAIT_YUEH_2
+  - DUNE_PORTRAIT_YUEH_3
+  - DUNE_PORTRAIT_KYNES_4
+  - DUNE_PORTRAIT_KYNES_3
+  - DUNE_PORTRAIT_VLAD_3
+  - DUNE_PORTRAIT_VLAD_4
+  - DUNE_PORTRAIT_JESSICA_3
+  - DUNE_PORTRAIT_JESSICA_2
+  - DUNE_PORTRAIT_JESSICA_1
   - GREATHOUSES_FEMALE_08_TEEN
   - GREATHOUSES_FEMALE_05_YOUTH
   - GREATHOUSES_FEMALE_10_ADULT
@@ -259,6 +248,54 @@ SpriteAtlas:
   - GREATHOUSES_FEMALE_13_SENIOR
   - GREATHOUSES_FEMALE_05_TEEN
   - GREATHOUSES_FEMALE_08_SENIOR
+  - GREATHOUSES_MALE_10_1
+  - GREATHOUSES_MALE_10_2
+  - GREATHOUSES_MALE_10_3
+  - GREATHOUSES_MALE_10_4
+  - GREATHOUSES_MALE_1_4
+  - GREATHOUSES_MALE_1_2
+  - GREATHOUSES_MALE_1_3
+  - GREATHOUSES_MALE_1_1
+  - GREATHOUSES_MALE_8_4
+  - GREATHOUSES_MALE_8_3
+  - GREATHOUSES_MALE_3_1
+  - GREATHOUSES_MALE_8_2
+  - GREATHOUSES_MALE_3_2
+  - GREATHOUSES_MALE_8_1
+  - GREATHOUSES_MALE_3_3
+  - GREATHOUSES_MALE_2_1
+  - GREATHOUSES_MALE_3_4
+  - GREATHOUSES_MALE_2_3
+  - GREATHOUSES_MALE_2_2
+  - GREATHOUSES_MALE_2_4
+  - GREATHOUSES_MALE_12_4
+  - GREATHOUSES_MALE_12_2
+  - GREATHOUSES_MALE_12_3
+  - GREATHOUSES_MALE_12_1
+  - GREATHOUSES_MALE_5_2
+  - GREATHOUSES_MALE_5_3
+  - GREATHOUSES_MALE_5_1
+  - GREATHOUSES_MALE_4_3
+  - GREATHOUSES_MALE_5_4
+  - GREATHOUSES_MALE_4_2
+  - GREATHOUSES_MALE_4_1
+  - GREATHOUSES_MALE_4_4
+  - GREATHOUSES_MALE_11_1
+  - GREATHOUSES_MALE_11_3
+  - GREATHOUSES_MALE_11_2
+  - GREATHOUSES_MALE_11_4
+  - GREATHOUSES_MALE_7_4
+  - GREATHOUSES_MALE_7_1
+  - GREATHOUSES_MALE_6_4
+  - GREATHOUSES_MALE_7_2
+  - GREATHOUSES_MALE_7_3
+  - GREATHOUSES_MALE_6_1
+  - GREATHOUSES_MALE_6_3
+  - GREATHOUSES_MALE_6_2
+  - GREATHOUSES_MALE_9_4
+  - GREATHOUSES_MALE_9_2
+  - GREATHOUSES_MALE_9_3
+  - GREATHOUSES_MALE_9_1
   m_RenderDataMap: {}
   m_Tag: dune-portrait-atlas
   m_IsVariant: 0
