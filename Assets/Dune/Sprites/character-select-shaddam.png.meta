@@ -1,9 +1,9 @@
 fileFormatVersion: 2
-guid: 0ec2686fa720ae642a73f62786c0e527
+guid: 0dfb3ff3edcffc348bffa0f15a146b8c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6470270117738414659
+      213: -5183319025214999973
     second: CHARACTER_SELECT_SHADDAM
   externalObjects: {}
   serializedVersion: 11
@@ -102,14 +102,14 @@ TextureImporter:
         width: 2048
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3428f9024640bc950800000000000000
-      internalID: 6470270117738414659
+      spriteID: b5239881fc62118b0800000000000000
+      internalID: -5183319025214999973
       vertices: []
       indices: 
       edges: []
@@ -117,7 +117,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 9bf8c5f731bc7dc47970dc1632a20582
+    spriteID: 39ce0351b1496f344a072db91cdce4e4
     internalID: 0
     vertices: []
     indices: 

@@ -130,19 +130,19 @@ TextureImporter:
     second: GREATHOUSES_FEMALE_12_SENIOR
   - first:
       213: 3407302001689909142
-    second: GREATHOUSES_FEMALE_13_TEEN
+    second: GREATHOUSES_FEMALE_12_YOUTH
   - first:
       213: -6044931756826883587
-    second: GREATHOUSES_FEMALE_13_ADULT
+    second: GREATHOUSES_FEMALE_08_YOUTH
   - first:
       213: -7756242123493323755
-    second: GREATHOUSES_FEMALE_13_SENIOR
+    second: GREATHOUSES_FEMALE_09_YOUTH
   - first:
       213: 6578338115424932014
-    second: GREATHOUSES_FEMALE_14_TEEN
+    second: GREATHOUSES_FEMALE_10_YOUTH
   - first:
       213: -5714261127243921698
-    second: GREATHOUSES_FEMALE_14_ADULT
+    second: GREATHOUSES_FEMALE_11_YOUTH
   - first:
       213: 8980584734887739524
     second: GREATHOUSES_FEMALE_14_SENIOR
@@ -1124,7 +1124,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1562
-        y: 750
+        y: 753
         width: 256
         height: 256
       alignment: 0
@@ -1141,7 +1141,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GREATHOUSES_FEMALE_13_TEEN
+      name: GREATHOUSES_FEMALE_12_YOUTH
       rect:
         serializedVersion: 2
         x: 1042
@@ -1162,7 +1162,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GREATHOUSES_FEMALE_13_ADULT
+      name: GREATHOUSES_FEMALE_08_YOUTH
       rect:
         serializedVersion: 2
         x: 1302
@@ -1183,7 +1183,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GREATHOUSES_FEMALE_13_SENIOR
+      name: GREATHOUSES_FEMALE_09_YOUTH
       rect:
         serializedVersion: 2
         x: 1562
@@ -1204,7 +1204,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GREATHOUSES_FEMALE_14_TEEN
+      name: GREATHOUSES_FEMALE_10_YOUTH
       rect:
         serializedVersion: 2
         x: 1042
@@ -1225,7 +1225,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GREATHOUSES_FEMALE_14_ADULT
+      name: GREATHOUSES_FEMALE_11_YOUTH
       rect:
         serializedVersion: 2
         x: 1302
@@ -1241,27 +1241,6 @@ TextureImporter:
       bones: []
       spriteID: ed68dccb7cdd2b0b0800000000000000
       internalID: -5714261127243921698
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GREATHOUSES_FEMALE_14_SENIOR
-      rect:
-        serializedVersion: 2
-        x: 1562
-        y: 230
-        width: 256
-        height: 256
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 48087463c3271ac70800000000000000
-      internalID: 8980584734887739524
       vertices: []
       indices: 
       edges: []
