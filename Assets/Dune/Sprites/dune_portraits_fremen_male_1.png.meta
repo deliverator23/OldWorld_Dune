@@ -1,7 +1,142 @@
 fileFormatVersion: 2
-guid: b40ce7b5356a2764890488506c0c28d5
+guid: 9f0dca4c54aed114bb8b4a47f87b3d15
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 8744824475997410321
+    second: FREMEN_MALE_1_0
+  - first:
+      213: 904853333133408997
+    second: FREMEN_MALE_1_1
+  - first:
+      213: -5310736300972271530
+    second: FREMEN_MALE_1_2
+  - first:
+      213: -626397032204106934
+    second: FREMEN_MALE_1_3
+  - first:
+      213: -3613796424649327714
+    second: FREMEN_MALE_12_1
+  - first:
+      213: 5622072745791804208
+    second: FREMEN_MALE_8_2
+  - first:
+      213: -7859544151035114242
+    second: FREMEN_MALE_8_3
+  - first:
+      213: -7473477399698759353
+    second: FREMEN_MALE_2_1
+  - first:
+      213: -9008418151785665778
+    second: FREMEN_MALE_2_2
+  - first:
+      213: -7256580726054220051
+    second: FREMEN_MALE_2_3
+  - first:
+      213: -5435339643647194312
+    second: FREMEN_MALE_12_1
+  - first:
+      213: 2336207006881757271
+    second: FREMEN_MALE_9_2
+  - first:
+      213: -8681557816436533030
+    second: FREMEN_MALE_9_3
+  - first:
+      213: 5903526078368538175
+    second: FREMEN_MALE_3_0
+  - first:
+      213: -2658211339272194529
+    second: FREMEN_MALE_3_1
+  - first:
+      213: 5211182590347927435
+    second: FREMEN_MALE_3_2
+  - first:
+      213: -7106187766316199501
+    second: FREMEN_MALE_3_3
+  - first:
+      213: 3710698350627293714
+    second: FREMEN_MALE_12_1
+  - first:
+      213: -3238175018432298390
+    second: FREMEN_MALE_10_2
+  - first:
+      213: -7751853406121006966
+    second: FREMEN_MALE_10_3
+  - first:
+      213: -2112559526711161851
+    second: FREMEN_MALE_4_0
+  - first:
+      213: 5190605617486499115
+    second: FREMEN_MALE_4_1
+  - first:
+      213: 2588567019336788714
+    second: FREMEN_MALE_4_2
+  - first:
+      213: 8512053637976461299
+    second: FREMEN_MALE_4_3
+  - first:
+      213: 1394220320064558786
+    second: FREMEN_MALE_12_1
+  - first:
+      213: -5886174575993114267
+    second: FREMEN_MALE_11_2
+  - first:
+      213: -3276595067509519078
+    second: FREMEN_MALE_11_3
+  - first:
+      213: -2773344543163966366
+    second: FREMEN_MALE_5_0
+  - first:
+      213: 1141166687853694859
+    second: FREMEN_MALE_5_1
+  - first:
+      213: 191293132871825665
+    second: FREMEN_MALE_5_2
+  - first:
+      213: -2191119662949910146
+    second: FREMEN_MALE_5_3
+  - first:
+      213: 3846944078986019920
+    second: FREMEN_MALE_12_1
+  - first:
+      213: 6662597951926470035
+    second: FREMEN_MALE_12_2
+  - first:
+      213: -6205355961238684107
+    second: FREMEN_MALE_12_3
+  - first:
+      213: -1760328216670489289
+    second: FREMEN_MALE_6_1
+  - first:
+      213: -3014685780208667719
+    second: FREMEN_MALE_6_2
+  - first:
+      213: 1704001811520598029
+    second: FREMEN_MALE_6_3
+  - first:
+      213: 2455537527704116737
+    second: FREMEN_MALE_2_0
+  - first:
+      213: 6550672723296271618
+    second: FREMEN_MALE_11_1
+  - first:
+      213: 7349076900255796667
+    second: FREMEN_MALE_11_2
+  - first:
+      213: -2869317537478736509
+    second: FREMEN_MALE_11_3
+  - first:
+      213: 7476467452208189524
+    second: FREMEN_MALE_7_0
+  - first:
+      213: 6106179948466930975
+    second: FREMEN_MALE_7_1
+  - first:
+      213: -5582849811740806192
+    second: FREMEN_MALE_7_2
+  - first:
+      213: 2358158425224239423
+    second: FREMEN_MALE_7_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,12 +176,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 50
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -68,7 +203,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -80,7 +215,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -89,7 +224,889 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: FREMEN_MALE_1_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1790
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11497f2678bdb5970800000000000000
+      internalID: 8744824475997410321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_1_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1790
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eabe37ff4fae8c00800000000000000
+      internalID: 904853333133408997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_1_2
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1790
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65896c4c8797c46b0800000000000000
+      internalID: -5310736300972271530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_1_3
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1790
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a438d1fc7379e47f0800000000000000
+      internalID: -626397032204106934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_8_1
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1790
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b333a6c4739ddc0800000000000000
+      internalID: -3613796424649327714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_8_2
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1790
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0335352106d950e40800000000000000
+      internalID: 5622072745791804208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_8_3
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1790
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc8d0d7c3a4de290800000000000000
+      internalID: -7859544151035114242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_2_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1530
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741ab02b6efd84890800000000000000
+      internalID: -7473477399698759353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_2_2
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1530
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b62aa6b6babf280800000000000000
+      internalID: -9008418151785665778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_2_3
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1530
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee8793d6427b4b90800000000000000
+      internalID: -7256580726054220051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_9_1
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1530
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b8fca446bc194b0800000000000000
+      internalID: -5435339643647194312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_9_2
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1530
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75837fe15efdb6020800000000000000
+      internalID: 2336207006881757271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_9_3
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1530
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8d84ea929e48780800000000000000
+      internalID: -8681557816436533030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_3_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1270
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e5967a0b98de150800000000000000
+      internalID: 5903526078368538175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_3_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1270
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16f3c8eed22c1bd0800000000000000
+      internalID: -2658211339272194529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_3_2
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1270
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f5365b4f6d15840800000000000000
+      internalID: 5211182590347927435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_3_3
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1270
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b11f7170efb16d90800000000000000
+      internalID: -7106187766316199501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_10_1
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1270
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a84c16d7c0f7330800000000000000
+      internalID: 3710698350627293714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_10_2
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1273
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a628cc13af0bf03d0800000000000000
+      internalID: -3238175018432298390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_10_3
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1270
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a886141f562eb6490800000000000000
+      internalID: -7751853406121006966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_4_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1010
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c8383ad4eaea2e0800000000000000
+      internalID: -2112559526711161851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_4_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1010
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d0e6fde4cb80840800000000000000
+      internalID: 5190605617486499115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_4_2
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1010
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea6cd04dff6ce320800000000000000
+      internalID: 2588567019336788714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_4_3
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1010
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff88a85fa3e02670800000000000000
+      internalID: 8512053637976461299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_5_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 750
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c91f0f4d91389d0800000000000000
+      internalID: -2773344543163966366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_5_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 750
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f47037e0d36df00800000000000000
+      internalID: 1141166687853694859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_5_2
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 750
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109fbc0471c97a200800000000000000
+      internalID: 191293132871825665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_5_3
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 750
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e793f7d86449791e0800000000000000
+      internalID: -2191119662949910146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_12_1
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 750
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05401c20247136530800000000000000
+      internalID: 3846944078986019920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_12_2
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 750
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39582dd898d467c50800000000000000
+      internalID: 6662597951926470035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_12_3
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 750
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ef38171a522e9a0800000000000000
+      internalID: -6205355961238684107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_6_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 490
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735324540de0297e0800000000000000
+      internalID: -1760328216670489289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_6_2
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 490
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3bd31614fa926d0800000000000000
+      internalID: -3014685780208667719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_6_3
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 490
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00be409e94d5a710800000000000000
+      internalID: 1704001811520598029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_2_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1530
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ed1771f52d31220800000000000000
+      internalID: 2455537527704116737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_11_1
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 490
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d3ae7822aa8ea50800000000000000
+      internalID: 6550672723296271618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_11_2
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 490
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd86c2f08a2df560800000000000000
+      internalID: 7349076900255796667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_11_3
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 490
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38508c6e6e22e28d0800000000000000
+      internalID: -2869317537478736509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_7_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 230
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45093a7298fb1c760800000000000000
+      internalID: 7476467452208189524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_7_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 230
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f150cfaaf428db450800000000000000
+      internalID: 6106179948466930975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_7_2
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 230
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d335d8ecabb582b0800000000000000
+      internalID: -5582849811740806192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREMEN_MALE_7_3
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 230
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39d59bf79cd9b020800000000000000
+      internalID: 2358158425224239423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

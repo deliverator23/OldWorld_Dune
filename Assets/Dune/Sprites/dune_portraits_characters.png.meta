@@ -77,6 +77,45 @@ TextureImporter:
   - first:
       213: 301576477364145253
     second: DUNE_PORTRAIT_FAROULA_3
+  - first:
+      213: -3200230801730326263
+    second: DUNE_PORTRAIT_GURNEY_2
+  - first:
+      213: 8636599383522132966
+    second: DUNE_PORTRAIT_GURNEY_3
+  - first:
+      213: -1903804577982858839
+    second: DUNE_PORTRAIT_PITER_2
+  - first:
+      213: -6333602905199978330
+    second: DUNE_PORTRAIT_GLOSSU_2
+  - first:
+      213: -8209651686701815942
+    second: DUNE_PORTRAIT_ALIA_B
+  - first:
+      213: 7897921560742581648
+    second: DUNE_PORTRAIT_ALIA_0
+  - first:
+      213: 2534644758472492345
+    second: DUNE_PORTRAIT_FEYD_1
+  - first:
+      213: -6338613786720422346
+    second: DUNE_PORTRAIT_FEYD_2
+  - first:
+      213: 2971845892519976400
+    second: DUNE_PORTRAIT_FEYD_3
+  - first:
+      213: 5508701548131351124
+    second: DUNE_PORTRAIT_DUNCAN_0
+  - first:
+      213: -2555140533724703199
+    second: DUNE_PORTRAIT_DUNCAN_1
+  - first:
+      213: 9032620418393312528
+    second: DUNE_PORTRAIT_DUNCAN_2
+  - first:
+      213: -15580983442625532
+    second: DUNE_PORTRAIT_DUNCAN_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -686,6 +725,279 @@ TextureImporter:
       bones: []
       spriteID: 56c47e5553a6f2400800000000000000
       internalID: 301576477364145253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_GURNEY_2
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1530
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901b9979a0f7693d0800000000000000
+      internalID: -3200230801730326263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_GURNEY_3
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1533
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3c132716d5bd770800000000000000
+      internalID: 8636599383522132966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_PITER_2
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1270
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9b197b2d35495e0800000000000000
+      internalID: -1903804577982858839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_GLOSSU_2
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1270
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a85c2fe6b58a18a0800000000000000
+      internalID: -6333602905199978330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_ALIA_B
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1010
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77a37c9945711e80800000000000000
+      internalID: -8209651686701815942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_ALIA_0
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1010
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095d5f380dd0b9d60800000000000000
+      internalID: 7897921560742581648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_FEYD_1
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 750
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9350f8c8afddc2320800000000000000
+      internalID: 2534644758472492345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_FEYD_2
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 750
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636b22a2858b808a0800000000000000
+      internalID: -6338613786720422346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_FEYD_3
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 750
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd5bdef71e1e3920800000000000000
+      internalID: 2971845892519976400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_DUNCAN_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 230
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a73062fd6d27c40800000000000000
+      internalID: 5508701548131351124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_DUNCAN_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 230
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1261328e8315a8cd0800000000000000
+      internalID: -2555140533724703199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_DUNCAN_2
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 230
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d0645e9605a5d70800000000000000
+      internalID: 9032620418393312528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUNE_PORTRAIT_DUNCAN_3
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 230
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ca6a89d25a8cff0800000000000000
+      internalID: -15580983442625532
       vertices: []
       indices: 
       edges: []
